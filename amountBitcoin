@@ -1,0 +1,11 @@
+public class Bitcoin{
+      
+    public static void main (String args[]){
+          
+        int bitcoinPrice = x;
+        int amountDollars = y;
+        double amountBitcoin = (double)y/x;
+        System.out.println(amountBitcoin);
+        return amountBitcoin;
+        }
+}
