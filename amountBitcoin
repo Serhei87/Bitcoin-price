@@ -1,11 +1,11 @@
-public class Bitcoin{
+public class Main {
       
     public static void main (String args[]){
           
-        int bitcoinPrice = x;
-        int amountDollars = y;
-        double amountBitcoin = (double)y/x;
-        System.out.println(amountBitcoin);
-        return amountBitcoin;
+        int x = 27000;
+        int y = 1000;
+        double z = y/x;
+        System.out.println(z);
+        return;
         }
 }
