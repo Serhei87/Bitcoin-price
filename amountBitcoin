@@ -2,8 +2,8 @@ public class Main {
       
     public static void main (String args[]){
           
-        int x = 27000;
-        int y = 1000;
+        double x = 21000;
+        double y = 1000;
         double z = y/x;
         System.out.println(z);
         return;
